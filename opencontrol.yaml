@@ -8,5 +8,6 @@ standards:
   - ./nist-800-53-rev3.yaml
   - ./nist-800-53-rev4.yaml
   - ./nist-800-53-latest.yaml
+  - ./48cfr-52.204-21.yaml
   - ./pci-dss.yaml
   - ./tsc-2017.yaml

@@ -4,12 +4,19 @@ To import these data into a OpenControl project add the follow code to your open
 ```yaml
 dependencies:
   standards:
-    - url: https://github.com/opencontrol/standards
+    - url: https://github.com/riskpeep/standards
       revision: master
 ```
 
 For more information on the opencontrol.yaml visit the [Compliance Masonry CLI](https://github.com/opencontrol/compliance-masonry#creating-an-opencontrol-project).
 
+## Why this Fork
+This fork is created to add in additional standards that we're aiming for (e.g. 48 CFR 52.204-21, NIST 800-171) in addition to NIST 800-53
+
+## About the 48 CFR 52.204-21
+This repository includes a definition of 48 CFR 52.204-21: Basic Safeguarding of Covered Contractor Information Systems as amended July 14, 2016.
+
+48cfr-52.204-21.yaml is an OpenControl standards file containing a mapping from 48 CFR 52.204-21 control numbers to their family and text (description), as well as a name for each control. Unlike NIST SP 800-53, 48 CFR 52.204-21 does not provide families or name its controls. The family and name fields in 48cfr-52.204-21.yaml was filled in with names created by Haystax Technology. To indicate these names are not official, we have set them off in brackets.
 
 ## Using the NIST 800-53 standards
 On 1-APR-2018, the NIST 800-53 standard files were updated to allow OpenControl content authors to specify which revision of NIST 800-53 should be used. There are now three options:
