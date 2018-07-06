@@ -1,8 +1,8 @@
 # Revision July 14, 2016
 name: 48CFR-52.204-21
 a:
-  family: [Basic Safeguards]
-  name: [Definitions]
+  family: '[Basic Safeguards]'
+  name: '[Definitions]'
   description: |-
     "(a) Definitions. As used in this clause—
        `Covered contractor` information system means an information system that 
@@ -29,14 +29,14 @@ a:
      information systems."
 
 b:
-  family: [Basic Safeguards]
-  name: [Requirements and Procedures]
+  family: '[Basic Safeguards]'
+  name: '[Requirements and Procedures]'
   description: |-
     "(b) Safeguarding requirements and procedures."
 
 b.1:
-  family: [Basic Safeguards]
-  name: [Basic Safeguards]
+  family: '[Basic Safeguards]'
+  name: '[Basic Safeguards]'
   description: |-
     "(1) The Contractor shall apply the following basic safeguarding requirements 
     and procedures to protect covered contractor information systems. 
@@ -45,118 +45,118 @@ b.1:
     controls:"
 
 b.1.i:
-  family: [Basic Safeguards]
-  name: [Limit Access to Authorized Users]
+  family: '[Basic Safeguards]'
+  name: '[Limit Access to Authorized Users]'
   description: |-
     "(i) Limit information system access to authorized users, processes acting 
     on behalf of authorized users, or devices (including other information 
     systems)."
 
 b.1.ii:
-  family: [Basic Safeguards]
-  name: [Limit Transactions and Functions to Permitted Usage]
+  family: '[Basic Safeguards]'
+  name: '[Limit Transactions and Functions to Permitted Usage]'
   description: |-
     "(ii) Limit information system access to the types of transactions and 
     functions that authorized users are permitted to execute."
 
 b.1.iii:
-  family: [Basic Safeguards]
-  name: [Limit Connections to External Systems]
+  family: '[Basic Safeguards]'
+  name: '[Limit Connections to External Systems]'
   description: |-
     "(iii) Verify and control/limit connections to and use of external 
     information systems."
 
 b.1.iv:
-  family: [Basic Safeguards]
-  name: [Control Posted Information]
+  family: '[Basic Safeguards]'
+  name: '[Control Posted Information]'
   description: |-
     "(iv) Control information posted or processed on publicly accessible 
     information systems."
 
 b.1.v:
-  family: [Basic Safeguards]
-  name: [Identify Users, Processes and Devices]
+  family: '[Basic Safeguards]'
+  name: '[Identify Users, Processes and Devices]'
   description: |-
     "(v) Identify information system users, processes acting on behalf of 
     users, or devices."
 
 b.1.vi:
-  family: [Basic Safeguards]
-  name: [Authenticate Users, Processes and Devices]
+  family: '[Basic Safeguards]'
+  name: '[Authenticate Users, Processes and Devices]'
   description: |-
     "(vi) Authenticate (or verify) the identities of those users, processes, 
     or devices, as a prerequisite to allowing access to organizational 
     information systems."
 
 b.1.vii:
-  family: [Basic Safeguards]
-  name: [Sanitize Media]
+  family: '[Basic Safeguards]'
+  name: '[Sanitize Media]'
   description: |-
     "(vii) Sanitize or destroy information system media containing Federal 
     Contract Information before disposal or release for reuse."
 
 b.1.viii:
-  family: [Basic Safeguards]
-  name: [Limit Physical Access]
+  family: '[Basic Safeguards]'
+  name: '[Limit Physical Access]'
   description: |-
     "(viii) Limit physical access to organizational information systems, 
     equipment, and the respective operating environments to authorized 
     individuals."
 
 b.1.ix:
-  family: [Basic Safeguards]
-  name: [Escort Visitors and Monitor Visitor Activity]
+  family: '[Basic Safeguards]'
+  name: '[Escort Visitors and Monitor Visitor Activity]'
   description: |-
     "(ix) Escort visitors and monitor visitor activity; maintain audit logs 
     of physical access; and control and manage physical access devices."
 
 b.1.x:
-  family: [Basic Safeguards]
-  name: [Monitor Internal and External Communications]
+  family: '[Basic Safeguards]'
+  name: '[Monitor Internal and External Communications]'
   description: |-
     "(x) Monitor, control, and protect organizational communications (i.e., 
     information transmitted or received by organizational information systems) 
     at the external boundaries and key internal boundaries of the information systems."
 
 b.1.xi:
-  family: [Basic Safeguards]
-  name: [Segment Networks]
+  family: '[Basic Safeguards]'
+  name: '[Segment Networks]'
   description: |-
     "(xi) Implement subnetworks for publicly accessible system components that 
     are physically or logically separated from internal networks."
 
 b.1.xii:
-  family: [Basic Safeguards]
-  name: [Correct Information System Flaws]
+  family: '[Basic Safeguards]'
+  name: '[Correct Information System Flaws]'
   description: |-
     "(xii) Identify, report, and correct information and information system 
     flaws in a timely manner."
 
 b.1.xiii:
-  family: [Basic Safeguards]
-  name: [Provide Malicious Code Protection]
+  family: '[Basic Safeguards]'
+  name: '[Provide Malicious Code Protection]'
   description: |-
     "(xiii) Provide protection from malicious code at appropriate locations 
     within organizational information systems."
 
 b.1.xiv:
-  family: [Basic Safeguards]
-  name: [Update Malicious Code Protection]
+  family: '[Basic Safeguards]'
+  name: '[Update Malicious Code Protection]'
   description: |-
     "(xiv) Update malicious code protection mechanisms when new releases are 
     available."
 
 b.1.xv:
-  family: [Basic Safeguards]
-  name: [Scan for Malicous Code]
+  family: '[Basic Safeguards]'
+  name: '[Scan for Malicous Code]'
   description: |-
     "(xv) Perform periodic scans of the information system and real-time scans 
     of files from external sources as files are downloaded, opened, or 
     executed."
 
 b.2:
-  family: [Other Requirements]
-  name: [Other Requirements]
+  family: '[Basic Safeguards]'
+  name: '[Other Requirements]'
   description: |-
     "(2) Other requirements. This clause does not relieve the Contractor of 
     any other specific safeguarding requirements specified by Federal agencies 
@@ -165,8 +165,8 @@ b.2:
     unclassified information (CUI) as established by Executive Order 13556."
 
 c:
-  family: [Subcontracts]
-  name: [Subcontracts]
+  family: '[Basic Safeguards]'
+  name: '[Subcontracts]'
   description: |-
     "(c) Subcontracts. The Contractor shall include the substance of this 
     clause, including this paragraph (c), in subcontracts under this contract 
