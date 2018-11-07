@@ -44,7 +44,7 @@ b.1:
     information systems shall include, at a minimum, the following security 
     controls:"
 
-b.1.i:
+b.1.1:
   family: '[Basic Safeguards]'
   name: '[Limit Access to Authorized Users]'
   description: |-
@@ -52,35 +52,35 @@ b.1.i:
     on behalf of authorized users, or devices (including other information 
     systems)."
 
-b.1.ii:
+b.1.2:
   family: '[Basic Safeguards]'
   name: '[Limit Transactions and Functions to Permitted Usage]'
   description: |-
     "(ii) Limit information system access to the types of transactions and 
     functions that authorized users are permitted to execute."
 
-b.1.iii:
+b.1.3:
   family: '[Basic Safeguards]'
   name: '[Limit Connections to External Systems]'
   description: |-
     "(iii) Verify and control/limit connections to and use of external 
     information systems."
 
-b.1.iv:
+b.1.4:
   family: '[Basic Safeguards]'
   name: '[Control Posted Information]'
   description: |-
     "(iv) Control information posted or processed on publicly accessible 
     information systems."
 
-b.1.v:
+b.1.5:
   family: '[Basic Safeguards]'
   name: '[Identify Users, Processes and Devices]'
   description: |-
     "(v) Identify information system users, processes acting on behalf of 
     users, or devices."
 
-b.1.vi:
+b.1.6:
   family: '[Basic Safeguards]'
   name: '[Authenticate Users, Processes and Devices]'
   description: |-
@@ -88,14 +88,14 @@ b.1.vi:
     or devices, as a prerequisite to allowing access to organizational 
     information systems."
 
-b.1.vii:
+b.1.7:
   family: '[Basic Safeguards]'
   name: '[Sanitize Media]'
   description: |-
     "(vii) Sanitize or destroy information system media containing Federal 
     Contract Information before disposal or release for reuse."
 
-b.1.viii:
+b.1.8:
   family: '[Basic Safeguards]'
   name: '[Limit Physical Access]'
   description: |-
@@ -103,14 +103,14 @@ b.1.viii:
     equipment, and the respective operating environments to authorized 
     individuals."
 
-b.1.ix:
+b.1.9:
   family: '[Basic Safeguards]'
   name: '[Escort Visitors and Monitor Visitor Activity]'
   description: |-
     "(ix) Escort visitors and monitor visitor activity; maintain audit logs 
     of physical access; and control and manage physical access devices."
 
-b.1.x:
+b.1.10:
   family: '[Basic Safeguards]'
   name: '[Monitor Internal and External Communications]'
   description: |-
@@ -118,35 +118,35 @@ b.1.x:
     information transmitted or received by organizational information systems) 
     at the external boundaries and key internal boundaries of the information systems."
 
-b.1.xi:
+b.1.11:
   family: '[Basic Safeguards]'
   name: '[Segment Networks]'
   description: |-
     "(xi) Implement subnetworks for publicly accessible system components that 
     are physically or logically separated from internal networks."
 
-b.1.xii:
+b.1.12:
   family: '[Basic Safeguards]'
   name: '[Correct Information System Flaws]'
   description: |-
     "(xii) Identify, report, and correct information and information system 
     flaws in a timely manner."
 
-b.1.xiii:
+b.1.13:
   family: '[Basic Safeguards]'
   name: '[Provide Malicious Code Protection]'
   description: |-
     "(xiii) Provide protection from malicious code at appropriate locations 
     within organizational information systems."
 
-b.1.xiv:
+b.1.14:
   family: '[Basic Safeguards]'
   name: '[Update Malicious Code Protection]'
   description: |-
     "(xiv) Update malicious code protection mechanisms when new releases are 
     available."
 
-b.1.xv:
+b.1.15:
   family: '[Basic Safeguards]'
   name: '[Scan for Malicous Code]'
   description: |-
